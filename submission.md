@@ -2,6 +2,8 @@
 
 ## AI Usage :
 
+I had AI help me understand how the files all worked together and how they are layed together. I had claude build a diagram and explain what models were so that I could understand it. I also needed claude to help me understand how certain functions work so that I can understand how the python files work. This helped me look for bugs because it further helped me what was going on for the specific file methods. The AI pointed me in the wrong direction when I was trying to understand the functions and methods for bug 5. It gave me explinations that confused me leading to me needing to take more time trying to understand the code and its concepts. 
+
 
 ## Main Files :
 
